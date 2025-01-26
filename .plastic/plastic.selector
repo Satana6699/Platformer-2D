@@ -1,0 +1,4 @@
+repository "Rogue Legecy Plagiat/Rogue Legecy Plagiat@7972213670420@cloud"
+  path "/"
+    br "/main"
+    co "/main"
