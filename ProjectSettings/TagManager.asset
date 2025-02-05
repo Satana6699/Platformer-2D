@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Trap
   - Enemy
+  - DeathZone
   layers:
   - Default
   - TransparentFX
